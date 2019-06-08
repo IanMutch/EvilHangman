@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Pages">
+      <UniqueIdentifier>{b758069a-eaee-4b7f-898d-66f52bc0481a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Page.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CustomIO.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ConsoleCmds.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="EvilHangman.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Page.cpp">
+      <Filter>Source Files\Pages</Filter>
+    </ClCompile>
+    <ClCompile Include="MainMenu.cpp">
+      <Filter>Source Files\Pages</Filter>
+    </ClCompile>
+    <ClCompile Include="WordLength.cpp">
+      <Filter>Source Files\Pages</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerGuesses.cpp">
+      <Filter>Source Files\Pages</Filter>
+    </ClCompile>
+    <ClCompile Include="RemainingWords.cpp">
+      <Filter>Source Files\Pages</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Playing.cpp">
+      <Filter>Source Files\Pages</Filter>
+    </ClCompile>
+    <ClCompile Include="CustomIO.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ConsoleCmds.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Help.cpp">
+      <Filter>Source Files\Pages</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Resources\Dictionary3.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Resources\Dictionary4.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Resources\Dictionary5.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Resources\Dictionary6.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Resources\Dictionary7.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Resources\Dictionary8.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Resources\Dictionary9.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Resources\Dictionary10.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Resources\Dictionary11.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Resources\Dictionary12.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Resources\Dictionary13.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Resources\Dictionary14.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Resources\Dictionary15.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Resources\Dictionary16.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Resources\Dictionary17.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Resources\Dictionary18.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Resources\Dictionary19.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Resources\Dictionary20.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Resources\Dictionary21.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Resources\Dictionary22.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Resources\Dictionary24.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Resources\Dictionary28.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Resources\Dictionary29.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
